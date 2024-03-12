@@ -1,5 +1,6 @@
 # SQL Insert, Select, Update and Delete
 
+
 ## Learning Goals
 
 - Use the `INSERT INTO` command to insert (Create) data into a database table
